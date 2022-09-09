@@ -1,6 +1,6 @@
-# Salesforce DX Project: Next Steps
+# Revenue Cloud CPQ Utilities
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+Account Utilities for CPQ Only Revenue Cloud environments
 
 ## How Do You Plan to Deploy Your Changes?
 
