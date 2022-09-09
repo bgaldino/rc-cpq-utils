@@ -1,0 +1,7 @@
+rc-cpq-utils/.husky/pre-commit
+rc-cpq-utils/.vscode/extensions.json
+rc-cpq-utils/.vscode/launch.json
+rc-cpq-utils/.vscode/settings.json
+rc-cpq-utils/.prettierignore
+rc-cpq-utils/.prettierrc
+rc-cpq-utils/jest.config.js

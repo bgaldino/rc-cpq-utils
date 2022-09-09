@@ -1,0 +1,12 @@
+{
+  "packageDirectories": [
+    {
+      "path": "rc-cpq-utils",
+      "default": true
+    }
+  ],
+  "name": "rc-cpq-utils",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "55.0"
+}
